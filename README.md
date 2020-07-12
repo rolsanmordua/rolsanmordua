@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 ###
 
 <!--
-**rolsanmordua/rolsanmordua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rolsanmordua/rolsanmordua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+- I'm a **Senior** studying **Computer Science**, **Business**, and **Data Science** at **UT Austin** 🐂🤘
+- I'm currently interning at **Microsoft** on **Outlook Mobile** 📱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fun Facts ###
+- I'm a **co-founder** of [the Waitlisters](www.waitlisters.org) competitive hackathon group that's earned **20+** awards at over a dozen hackathons over the years 👨‍💻
+- I've served as **Co-President** and **VP of Web Administration** for [Texas ACM](www.texasacm.org) 💻
+- I've written an [extended essay](https://www.cs.utexas.edu/~rsmoreno/EE_Final.pdf) on **CS Education K-12** 📝
+- My family breeds [hairless dogs](http://morenoahts.com) 🐶
+- I enjoy travelling 🛫, photography 📷, and reading 📚 in my free time
