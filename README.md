@@ -4,7 +4,7 @@
 **rolsanmordua/rolsanmordua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - I'm a **Senior** studying **Computer Science**, **Business**, and **Data Science** at **UT Austin** 🤘
-- I'm currently interning at **Snap Inc** on **Camera** 📱
+- I'm currently serving as an Undergraduate Teaching Assistant. I've interned at **Snap Inc** and **Microsoft**.
 
 ### Fun Facts ###
 - I'm a **co-founder** of [the Waitlisters](www.waitlisters.org) competitive hackathon group that's earned **20+** awards at over a dozen hackathons over the years 👨‍💻
